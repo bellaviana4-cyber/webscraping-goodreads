@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+codigos/gerar_relatorio_goodreads_v1.py
+dados/goodreads_lista_parcial.csv
